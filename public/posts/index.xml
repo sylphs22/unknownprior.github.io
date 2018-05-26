@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 May 2018 21:10:39 +0530</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>helloWorld</title>
+      <link>http://replace-this-with-your-hugo-site.com/posts/helloWorld/</link>
+      <pubDate>Sat, 26 May 2018 21:10:39 +0530</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/posts/helloWorld/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-world:3eb93a49f1cd2abdba2cc4308deaace4&#34;&gt;Hello World&lt;/h1&gt;
+
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;rsquo;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&amp;rsquo;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
