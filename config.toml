@@ -1,4 +1,4 @@
-baseurl = "http://unknownprior.github.io"
+baseurl = "https://sylphs22.github.io/unknown-prior/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "prior learning"
 theme = "hyde-hyde"
