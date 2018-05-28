@@ -1,4 +1,8 @@
 baseurl = "https://sylphs22.github.io/unknown-prior/"
 languageCode = "en-us"
+<<<<<<< HEAD
 title = "prior learning"
+=======
+title = "learning priors"
+>>>>>>> 488cf0b59178ab98e5cfbfe223568b8cac91ee3f
 theme = "hyde-hyde"
