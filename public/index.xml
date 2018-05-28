@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on prior learning</title>
-    <link>https://sylphs22.github.io/unknown-prior/posts/</link>
-    <description>Recent content in Posts on prior learning</description>
+    <title>prior learning</title>
+    <link>https://sylphs22.github.io/unknown-prior/</link>
+    <description>Recent content on prior learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 May 2018 21:10:39 +0530</lastBuildDate>
     
-	<atom:link href="https://sylphs22.github.io/unknown-prior/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sylphs22.github.io/unknown-prior/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
