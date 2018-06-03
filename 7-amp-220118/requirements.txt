@@ -1,0 +1,7 @@
+xgboost
+pandas
+numpy
+sciPy
+scikit-learn
+flask
+schedule
